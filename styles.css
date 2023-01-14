@@ -1,1 +1,19 @@
 /* your code */
+#tab {
+	border-collapse:collapse;
+	width:100%;
+	height:100%;
+	border:1px solid white ;
+	font-size:10px;	
+}
+#head {
+	background-color:royalblue;
+	text-align:left;
+}
+tr:nth-child(even)
+{ background-color:lightgray;
+	
+}
+th,td{
+	padding:10px;
+}
